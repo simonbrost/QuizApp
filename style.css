@@ -11,6 +11,7 @@ body {
 .quiz-card {
     width: 50rem !important;
 }
+
 .question-footer {
     display: flex;
     justify-content: space-between;
@@ -26,4 +27,11 @@ body {
 
 .bg-success, .bg-danger {
     color: white !important;
+}
+
+.width-100 {
+    width: 100%;
+}
+.text-center {
+    text-align: center;
 }
